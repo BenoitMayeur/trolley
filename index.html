@@ -7,16 +7,16 @@
     <title>Chariot</title>
 </head>
 <body>
-    <main>
-        <p>
+    <form>
+        <label>
             Mettez le poids de chaque colis et je vous dirai si on peut les transporter sur le chariot.<br>
             Attention: limite de 3 colis et de 500kg max
-        </p>
+        </label>
         <input type="number" id="weight_parcel" placeholder="Poids colis">
-        <button id="submit">Ajouter colis</button>
+        <input type="submit" id="submit">
         <output id="total_weight"></output>
         <span id="message_parcel"></span>
-    </main>
+    </form>
     <script src="js/main.js"></script>
 </body>
 </html>
