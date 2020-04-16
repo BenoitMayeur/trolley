@@ -12,3 +12,5 @@ Exemple : Colis 1 = 75
 Colis 2 = 145
 Colis 3 = 200
 Total = 420 : OK pour transport
+
+Résultat final: https://benoitmayeur.github.io/trolley/
