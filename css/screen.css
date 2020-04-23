@@ -68,6 +68,7 @@ form{
 	border: solid black 2px;
 	width: 50vw;
 	height: 30vh;
+	min-height: 100%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
